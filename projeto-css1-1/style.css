@@ -8,7 +8,6 @@
 }
 
 body {
-    overflow-x: hidden;
     height: 100vh;
     font: normal normal 24px "Montserrat", sans-serif;
 }
